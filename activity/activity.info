@@ -1,0 +1,7 @@
+[Activity]
+name = Chutar
+activity_version = 1
+bundle_id = org.sugarlabs.Chutar
+exec = sugar-activity activity.ChutarActivity
+icon = soccer_ball
+license = GPLv2+
